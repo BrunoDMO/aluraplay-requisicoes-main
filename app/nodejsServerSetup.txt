@@ -1,0 +1,9 @@
+npm init
+npm install json-server
+json-server --watch db.json
+caso ultimo comando der erro
+---------------------
+abrir powershell administrador e colocar -> Set-ExecutionPolicy RemoteSigned
+Enter
+A Enter
+---------------------
